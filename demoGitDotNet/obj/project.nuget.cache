@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SahmwvsD7+9UwqczOOyUSTgP3L7JvIa76rvtsR970/13iS7Li4kYIO6YxhVO0t2EsJYFoa12tPrGjSMvjK3qVw==",
+  "dgSpecHash": "ZvMZiZzmKj/StoB75UOaO/7d7HfcJirQmXKBIGwRa2Y/nMklAifOBMCob5WTBrT6wbNTRXUj4yxT91kn6Km8Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\billn\\Desktop\\demoGitDotNet\\demoGitDotNet\\demoGitDotNet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\billn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
